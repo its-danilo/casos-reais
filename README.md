@@ -5,3 +5,4 @@ Divulgações responsáveis de falhas que encontrei, sempre anonimizadas. Cada u
 | Caso | Tema |
 |---|---|
 | [Recuperação de conta com dados que não são segredos](recuperacao-de-conta-com-dados-nao-secretos/) | Controle de acesso, recuperação de conta |
+| [A senha padrão era o CPF do aluno](senha-padrao-previsivel/) | Senha padrão previsível, perfis públicos |
