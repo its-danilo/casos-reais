@@ -1,8 +1,8 @@
 # A senha padrão era o CPF do aluno
 
-**Tipo:** divulgação responsável
-**Alvo:** omitido de propósito. É o ambiente de curso online (EAD) de uma escola, feito em WordPress.
-**Status:** fui aluno desse curso, encontrei o problema e não tive retorno ao avisar.
+**Tipo:** divulgação responsável  
+**Alvo:** omitido de propósito. É o ambiente de curso online (EAD) de uma escola, feito em WordPress.  
+**Status:** fui aluno desse curso, encontrei o problema e não tive retorno ao avisar.  
 
 ## Aviso
 

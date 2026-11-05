@@ -1,8 +1,8 @@
 # Recuperação de conta com dados que não são segredos
 
-**Tipo:** divulgação responsável
-**Alvo:** omitido de propósito. É um portal público de inscrições que ainda estava no ar quando escrevi isto.
-**Status:** reportei ao responsável e não tive retorno.
+**Tipo:** divulgação responsável  
+**Alvo:** omitido de propósito. É um portal público de inscrições que ainda estava no ar quando escrevi isto.  
+**Status:** reportei ao responsável e não tive retorno.  
 
 ## Aviso
 
