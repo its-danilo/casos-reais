@@ -1,6 +1,6 @@
-# Disclosures
+# Casos reais
 
-Divulgações responsáveis de falhas que encontrei, sempre anonimizadas. Cada uma descreve a classe da falha, o impacto e como corrigir, sem identificar o alvo e sem servir de passo a passo de ataque. Os dados pessoais nos prints estão cobertos.
+Falhas que encontrei em sistemas reais e reportei aos responsáveis, sempre anonimizadas. Cada uma descreve a classe da falha, o impacto e como corrigir, sem identificar o alvo e sem servir de passo a passo de ataque. Os dados pessoais nos prints estão cobertos.
 
 | Caso | Tema |
 |---|---|
